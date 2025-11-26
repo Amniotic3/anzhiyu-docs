@@ -40,18 +40,18 @@ Anzhiyu主题拥有**Main**(稳定版)和**Dev**(测试版)两种版本, 我们�
 **方式一(Github 推荐):**
 
 ```bash 
-git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu
+git clone -b main https://github.com/Amniotic3/hexo-theme-anzhiyu.git themes/anzhiyu
 ```
 
 如遇安装不上可以使用以下url代理安装
 
 ```bash
-git clone -b main https://ghproxy.com/https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu
+git clone -b main https://ghproxy.cn/https://github.com/Amniotic3/hexo-theme-anzhiyu.git themes/anzhiyu
 ```
 
 **方式二(Release 推荐):**
 
-下载 [最新 release 版本](https://github.com/anzhiyu-c/hexo-theme-anzhiyu/releases) 解压到 `themes` 目录，并将解压出的文件夹重命名为 `anzhiyu`。
+下载 [最新 release 版本](https://github.com/Amniotic3/hexo-theme-anzhiyu/releases) 解压到 `themes` 目录，并将解压出的文件夹重命名为 `anzhiyu`。
 
 **方式三(npm安装):**
 ```bash
@@ -172,3 +172,4 @@ X: 产品层面的重新设计，包含重大框架重构，会涉及大范围�
 Y: 包含中大型新功能，及无法向下兼容的功能变更与配置变更，更新该版本号可能会需要修改配置或者移除一些原功能
 
 Z: 不仅包含 BUG 修复、小型新功能，还会包含可以向下兼容的原功能更新与配置变更，原则上更新该版本号无需额外动作
+
